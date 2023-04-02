@@ -13,3 +13,4 @@ Create a landing page of the respected sector that was assigned Must include
 **Live:** <https://technerds-task1.netlify.app/>
 
 <hr>
+https://weblaunch-india.github.io/TechNerdss/Task%201/
